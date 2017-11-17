@@ -1,11 +1,9 @@
 {
-  "latestVersion": "1.0.5",
-  "latestVersionCode": 5,
+  "latestVersion": "1.0.6",
+  "latestVersionCode": 6,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
-    "- Bank Statement fixes.",
-    "- Client doc upload.",
-    "- New EMI Scheme flows.",
+    "- EMI Scheme fixes.",
     "- Bug fixes."
   ]
 }

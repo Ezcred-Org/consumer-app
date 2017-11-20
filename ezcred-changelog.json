@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0.7",
-  "latestVersionCode": 7,
+  "latestVersion": "1.0.8",
+  "latestVersionCode": 8,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
-    "- PAN OCR added.",
-    "- Aadhaarbridge downtime notification.",
-    "- Bank details screen fixes."
+    "- Accepting multiple devices for fingerprint capture.",
+    "- Bug fixes."
   ]
 }

@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0.22",
-  "latestVersionCode": 22,
+  "latestVersion": "1.0.23",
+  "latestVersionCode": 23,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
-    "- Bug fixes."
-    
+    "- Allow multiple attachment for address proof",
+    "- Intro activity for Agent App",
+    "- Enabling perfios",
+    "- Bug fixes"
   ]
 }

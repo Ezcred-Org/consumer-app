@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0.24",
-  "latestVersionCode": 24,
+  "latestVersion": "1.0.25",
+  "latestVersionCode": 25,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
-    "- Digio Esign issue solved",
+    "- New loan flow",
+    "- Client image click and zoomable",
+    "- Fixes in perfios",
     "- Bug fixes"
   ]
 }

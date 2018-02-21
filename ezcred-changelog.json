@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.38",
-  "latestVersionCode": 38,
+  "latestVersion": "1.0.40",
+  "latestVersionCode": 40,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
-    "- New client creation flow",
     "- Bug fixes"
   ]
 }

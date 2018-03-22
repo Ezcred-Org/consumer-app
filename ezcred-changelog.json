@@ -1,8 +1,10 @@
 {
-  "latestVersion": "1.0.50",
-  "latestVersionCode": 50,
+  "latestVersion": "1.0.51",
+  "latestVersionCode": 51,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.consumer",
   "releaseNotes": [
+    "- Search feature for choosing brands and models",
+    "- Input DOB in client creation",
     "- Bug fixes"
   ]
 }
